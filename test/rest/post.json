@@ -1,0 +1,12 @@
+{
+  "type": "rest",
+  "target": {
+    "url": "https://jsonplaceholder.typicode.com/posts",
+    "method": "post"
+  },
+  "message": {
+    "userId": 10,
+    "title": "Title",
+    "body": "message"
+  }
+}

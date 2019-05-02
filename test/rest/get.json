@@ -1,0 +1,7 @@
+{
+    "type":"rest",
+    "target": {
+        "url":"https://jsonplaceholder.typicode.com/posts",
+        "method": "get"
+    }
+}

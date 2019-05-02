@@ -1,0 +1,9 @@
+{
+    "type":"rabbitmq",
+    "target": {
+        "host":"123456789",
+        "user": "post",
+        "password": "Hola mundo"
+    },
+    "message": "Hello"
+}
